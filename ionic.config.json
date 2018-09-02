@@ -1,0 +1,7 @@
+{
+  "name": "NNT",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
